@@ -1,0 +1,15 @@
+[submodule "hnsearch"]
+	path = hnsearch
+	url = git@github.com:ammarbinfaisal/hnsearch.git
+[submodule "sbdic"]
+	path = sbdic
+	url = git@github.com:ammarbinfaisal/sbdic.git
+[submodule "daphniasgn"]
+	path = daphniasgn
+	url = git@github.com:ammarbinfaisal/daphniasgn.git
+[submodule "saasdensasgn"]
+	path = saasdensasgn
+	url = git@github.com:ammarbinfaisal/saasdensasgn.git
+[submodule "collect"]
+	path = collect
+	url = git@github.com:ammarbinfaisal/collect
