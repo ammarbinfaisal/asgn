@@ -16,3 +16,6 @@
 [submodule "hybr1d-asgn"]
 	path = hybr1d-asgn
 	url = git@github.com:ammarbinfaisal/hybr1d-asgn.git
+[submodule "injurie"]
+	path = injurie
+	url = git@github.com:ammarbinfaisal/injurie.git
