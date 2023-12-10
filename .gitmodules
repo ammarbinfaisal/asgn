@@ -13,3 +13,6 @@
 [submodule "collect"]
 	path = collect
 	url = git@github.com:ammarbinfaisal/collect
+[submodule "hybr1d-asgn"]
+	path = hybr1d-asgn
+	url = git@github.com:ammarbinfaisal/hybr1d-asgn.git
